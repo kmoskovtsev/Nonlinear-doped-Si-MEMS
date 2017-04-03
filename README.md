@@ -4,6 +4,13 @@ Written by Kirill Moskovtsev, Michigan State University, 2016.
 moskovts --at-- msu.edu
 
 ## About
+This is the code for calculating nonlinearity induced by electron-phonon coupling in silicon microelectromechanical systems (MEMS). The code 
+also calculates the temperature dependence of frequency for these devices. The theory used in this code and results produced by the code
+are published in:
+
+Kirill Moskovtsev, and M. I. Dykman. “Strong vibration nonlinearity in semiconductor-based nanomechanical
+systems.” Phys. Rev. B 95, 085426 (2017) ([download](https://arxiv.org/abs/1611.09912 from arXiv))
+
 
 There are two pieces of code here. The code in *c_ijm_through_F_public.ipynb* 
 calculates analytical expressions for elastic constants of Si and Ge and saves them to 'single_expressions' folder.
