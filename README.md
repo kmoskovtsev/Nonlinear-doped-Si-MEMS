@@ -9,7 +9,7 @@ also calculates the temperature dependence of frequency for these devices. The t
 are published in:
 
 Kirill Moskovtsev, and M. I. Dykman. “Strong vibration nonlinearity in semiconductor-based nanomechanical
-systems.” Phys. Rev. B 95, 085426 (2017) ([download](https://arxiv.org/abs/1611.09912 from arXiv))
+systems.” Phys. Rev. B 95, 085426 (2017) ([download from Arxiv](https://arxiv.org/abs/1611.09912]))
 
 
 There are two pieces of code here. The code in *c_ijm_through_F_public.ipynb* 
